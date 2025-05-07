@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+loki-data/
+grafana-storage/
+*.log
+.env
